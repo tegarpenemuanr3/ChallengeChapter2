@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tegarpenemuan.challengechapter2">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ChallengeChapter2">
+        <activity
+            android:theme="@style/Theme.tokopedia"
+            android:name=".tokopedia.TokopediaActivity"
+            android:exported="false"
+            android:label="@string/title_activity_tokopedia" />
+        <activity
+            android:name=".shopee.ShopeeActivity"
+            android:exported="false"
+            android:label="@string/title_activity_shopee"
+            android:theme="@style/Theme.shopee" />
+        <activity
+            android:name=".gojek.GojekActivity"
+            android:exported="false"
+            android:label="@string/title_activity_gojek"
+            android:theme="@style/Theme.gojek" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

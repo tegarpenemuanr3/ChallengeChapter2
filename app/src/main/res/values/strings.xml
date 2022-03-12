@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Challenge Chapter 2</string>
+    <string name="title_activity_gojek">GojekActivity</string>
+    <string name="title_activity_shopee">ShopeeActivity</string>
+    <string name="title_activity_tokopedia">TokopediaActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="gopay">Gopay</string>
+    <string name="rp_109_048">Rp.109.048</string>
+    <string name="click_amp_cek_riwayat"><![CDATA[Click & cek riwayat]]></string>
+    <string name="bayar">Bayar</string>
+    <string name="eksplor">Eksplor</string>
+    <string name="isi_saldo">Isi Saldo</string>
+</resources>
