@@ -23,16 +23,18 @@
 
             <androidx.appcompat.widget.AppCompatImageView
                 android:layout_width="15dp"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
                 android:layout_marginHorizontal="10dp"
                 android:src="@drawable/ic_search" />
 
-            <TextView
+            <EditText
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
+                android:textSize="12sp"
                 android:layout_gravity="center_vertical"
-                android:text="Cari Produk"
-                android:textSize="12sp" />
+                android:background="@null"
+                android:hint="Cari produk disini" />
 
         </LinearLayout>
 
@@ -50,21 +52,21 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="5dp"
-            android:src="@drawable/ic_add"
+            android:src="@drawable/ic_message"
             app:tint="@color/white" />
 
         <androidx.appcompat.widget.AppCompatImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="5dp"
-            android:src="@drawable/ic_explore"
+            android:src="@drawable/ic_notification"
             app:tint="@color/white" />
 
         <androidx.appcompat.widget.AppCompatImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="5dp"
-            android:src="@drawable/ic_add"
+            android:src="@drawable/ic_shopping_cart"
             app:tint="@color/white" />
 
         <androidx.appcompat.widget.AppCompatImageView

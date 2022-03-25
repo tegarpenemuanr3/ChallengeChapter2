@@ -40,10 +40,9 @@
                         android:layout_height="20dp"
                         android:layout_marginStart="10dp"
                         android:layout_marginTop="5dp"
-                        android:src="@drawable/ic_monetization"
+                        android:src="@drawable/ic_gopay"
                         app:layout_constraintLeft_toLeftOf="parent"
-                        app:layout_constraintTop_toTopOf="parent"
-                        app:tint="#32A8C2" />
+                        app:layout_constraintTop_toTopOf="parent"/>
 
                     <TextView
                         android:id="@+id/tv_gopay"

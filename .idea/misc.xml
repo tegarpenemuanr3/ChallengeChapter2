@@ -3,6 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/00. PANDUAN MBKM/materi MBKM/Chapter 2/ChallengeChapter2/app/src/main/res/drawable-v24/ic_message.xml" value="0.129" />
+        <entry key="..\:/00. PANDUAN MBKM/materi MBKM/Chapter 2/ChallengeChapter2/app/src/main/res/drawable-v24/ic_notification.xml" value="0.129" />
+        <entry key="..\:/00. PANDUAN MBKM/materi MBKM/Chapter 2/ChallengeChapter2/app/src/main/res/drawable-v24/ic_shopping_cart.xml" value="0.129" />
+        <entry key="..\:/00. PANDUAN MBKM/materi MBKM/Chapter 2/ChallengeChapter2/app/src/main/res/layout/activity_gojek.xml" value="0.209375" />
+        <entry key="..\:/00. PANDUAN MBKM/materi MBKM/Chapter 2/ChallengeChapter2/app/src/main/res/layout/activity_tokopedia.xml" value="0.209375" />
+        <entry key="..\:/00. PANDUAN MBKM/materi MBKM/Chapter 2/ChallengeChapter2/app/src/main/res/layout/fragment_home_gojek.xml" value="0.209375" />
+        <entry key="..\:/00. PANDUAN MBKM/materi MBKM/Chapter 2/ChallengeChapter2/app/src/main/res/layout/fragment_home_tokopedia.xml" value="0.209375" />
+        <entry key="..\:/00. PANDUAN MBKM/materi MBKM/Chapter 2/ChallengeChapter2/app/src/main/res/layout/item_home_category.xml" value="0.209375" />
+        <entry key="..\:/00. PANDUAN MBKM/materi MBKM/Chapter 2/ChallengeChapter2/app/src/main/res/layout/layout_card_home_gojek.xml" value="0.25" />
+        <entry key="..\:/00. PANDUAN MBKM/materi MBKM/Chapter 2/ChallengeChapter2/app/src/main/res/layout/layout_home_toolbar_tokopedia.xml" value="0.33" />
+        <entry key="..\:/00. PANDUAN MBKM/materi MBKM/Chapter 2/ChallengeChapter2/app/src/main/res/layout/layout_toolbar_home_gojek.xml" value="0.209375" />
         <entry key="..\:/Challenge Chapter 2/app/src/main/res/drawable-v24/bg_rounded.xml" value="0.132" />
         <entry key="..\:/Challenge Chapter 2/app/src/main/res/drawable-v24/ic_explore.xml" value="0.132" />
         <entry key="..\:/Challenge Chapter 2/app/src/main/res/drawable-v24/ic_monetization.xml" value="0.132" />
