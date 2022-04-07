@@ -6,27 +6,27 @@ import com.tegarpenemuan.minichallenge2.model.CategoryTokpedModel
 object DummyTokped {
     val CATEGORY_TOKPEDS: List<CategoryTokpedModel> = listOf(
         CategoryTokpedModel(
-            avatar = R.drawable.ic_officialstore,
+            avatar = R.drawable.official,
             desc = "Official Store",
         ),
         CategoryTokpedModel(
-            avatar = R.drawable.ic_lihatsemua,
+            avatar = R.drawable.masker,
             desc = "Lihat Semua",
         ),
         CategoryTokpedModel(
-            avatar = R.drawable.ic_kebutuhanharian,
+            avatar = R.drawable.calender,
             desc = "Kebutuhan Harian",
         ),
         CategoryTokpedModel(
-            avatar = R.drawable.ic_hp,
+            avatar = R.drawable.play,
             desc = "HP & Tablet",
         ),
         CategoryTokpedModel(
-            avatar = R.drawable.ic_topup,
-            desc = "Top-Up & Tagihan",
+            avatar = R.drawable.pedulilindungi,
+            desc = "Lihat Semua",
         ),
         CategoryTokpedModel(
-            avatar = R.drawable.ic_keuangan,
+            avatar = R.drawable.send,
             desc = "Keuangan",
         ),
     )

@@ -12,6 +12,7 @@ import com.tegarpenemuan.minichallenge2.adapter.CategoryTokped
 import com.tegarpenemuan.minichallenge2.adapter.SlideTokped
 import com.tegarpenemuan.minichallenge2.adapter.VideoTokped
 import com.tegarpenemuan.minichallenge2.data.DummyTokped
+import com.tegarpenemuan.minichallenge2.data.DummyTokped2
 import com.tegarpenemuan.minichallenge2.data.DummyTokpedSlider
 
 class HomeFragment : Fragment() {
@@ -39,7 +40,7 @@ class HomeFragment : Fragment() {
         val adapter_slide = SlideTokped(DummyTokpedSlider.SLIDER_TOKPEDS)
         binding.rvSlider.adapter = adapter_slide
 
-        val adapter2 = CategoryTokped(DummyTokped.CATEGORY_TOKPEDS)
+        val adapter2 = CategoryTokped(DummyTokped2.CATEGORY_TOKPEDS)
         binding.rvCategory2.adapter = adapter2
 
         val adapter_video = VideoTokped(DummyVideoTokped.VIDEO_TOKPEDS)
