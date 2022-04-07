@@ -7,5 +7,4 @@
 > Languages used with kotlin and android studio used version 2021.1.1
 
 ## Demo
-![Alt Text](https://github.com/tegarpenemuanr3/ChallengeChapter2/blob/master/Demo/demo.gif)
-
+<img src="Demo/demo.gif" width="400" height="800"/>
