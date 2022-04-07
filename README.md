@@ -9,5 +9,3 @@
 ## Demo
 ![Alt Text](https://github.com/tegarpenemuanr3/ChallengeChapter2/blob/master/Demo/demo.gif)
 
-## Thanks
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
